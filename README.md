@@ -1,6 +1,6 @@
 # ABCD-CNV-ADHD
 
-This page lists the code we used to generate results for the following paper:
+This page lists the code we used to generate results for the following paper at the time of submission:
 
 Jung B, Ahn K, Justice C, Norman L, Price J, Sudre G. Rare copy number variants in males and females with childhood attention-deficit/hyperactivity disorder. Molecular Psychiatry. in press
 
